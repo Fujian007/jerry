@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e298e9f-c1be-44d9-8d0c-30653e703b34" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="293agVoV7eVYhHbH24oIgyVzsAk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/XU/Desktop/java/Jerry/Jerry/src/main/java/com/xu/Jerry/entity&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;dbaf60f3a397e1d27630a459c1700ea7&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XU\Desktop\java\Jerry\Jerry\src\main\java\com\xu\Jerry\entity" />
+      <recent name="C:\Users\XU\Desktop\java\Jerry\Jerry\src\main\java\com\xu\Jerry\Utils" />
+      <recent name="C:\Users\XU\Desktop\java\Jerry\Jerry\src\main\java\com\xu\Jerry\dto" />
+      <recent name="C:\Users\XU\Desktop\java\Jerry\Jerry\src\main\resources\backend\page\dome" />
+      <recent name="C:\Users\XU\Desktop\java\Jerry\Jerry\src\main\java\com\xu\Jerry\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JerryApplication">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Jerry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JerryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Jerry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xu.Jerry.JerryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.Jerry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JerryApplication" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e298e9f-c1be-44d9-8d0c-30653e703b34" name="Changes" comment="" />
+      <created>1652344335584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652344335584</updated>
+      <workItem from="1652344336828" duration="562000" />
+      <workItem from="1652344915574" duration="179000" />
+      <workItem from="1652345109025" duration="11204000" />
+      <workItem from="1652400374748" duration="2763000" />
+      <workItem from="1652403420404" duration="953000" />
+      <workItem from="1652404462577" duration="19265000" />
+      <workItem from="1652486536413" duration="20728000" />
+      <workItem from="1652572788557" duration="21002000" />
+      <workItem from="1652658385307" duration="25785000" />
+      <workItem from="1652746699583" duration="39548000" />
+      <workItem from="1652920857786" duration="21279000" />
+      <workItem from="1653003476622" duration="1234000" />
+      <workItem from="1653007051560" duration="18789000" />
+      <workItem from="1653094432656" duration="17724000" />
+      <workItem from="1653179044930" duration="4961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: Jerry
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jerry
+    username: root
+    password: xu
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+mybatis-plus:
+  configuration:
+    #在映射实体类或属性时，把数据库的表名和字段名中的下划线去掉，采用驼峰命名法映射
+    map-underscore-to-camel-case: true
+    #显示日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+#生产id
+  global-config:
+    db-config:
+      id-type: assign_id
+
+
+
+#自定义一个属性，上传图片位置
+jerry:
+  path: C:\Users\XU\Desktop\java\Jerry\img\
